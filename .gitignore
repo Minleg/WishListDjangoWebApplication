@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+.vscode
+.idea
+db.sqlite3
+/Users/minleg/Desktop/Spring2023/SoftwareDevelopmentCapstone/DjangoExample/django_wishlist/venv/
