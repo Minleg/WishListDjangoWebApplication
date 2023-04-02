@@ -4,3 +4,4 @@ __pycache__
 .idea
 db.sqlite3
 /Users/minleg/Desktop/Spring2023/SoftwareDevelopmentCapstone/DjangoExample/django_wishlist/venv/
+.gitignore
